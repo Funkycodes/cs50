@@ -1,0 +1,4 @@
+# ignoring cs50 package
+cs50.*
+# ignoring vscode config files
+.vscode/
