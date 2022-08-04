@@ -2,3 +2,9 @@
 cs50.*
 # ignoring vscode config files
 .vscode/
+# ignoring json files
+*.json
+# ignore executables
+*.exe
+# ignore zips
+*.zip
